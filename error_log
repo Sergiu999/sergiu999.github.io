@@ -1,0 +1,55 @@
+[18-Sep-2017 08:21:22 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/ancientbank27/public_html/sendemail.php on line 16
+[18-Sep-2017 08:22:13 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/ancientbank27/public_html/sendemail.php on line 16
+[18-Sep-2017 08:22:16 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/ancientbank27/public_html/sendemail.php on line 16
+[18-Sep-2017 08:26:45 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/ancientbank27/public_html/test.php on line 2
+[18-Sep-2017 08:26:47 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/ancientbank27/public_html/test.php on line 2
+[18-Sep-2017 08:26:55 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/ancientbank27/public_html/sendemail.php on line 16
+[18-Sep-2017 08:27:17 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/ancientbank27/public_html/test.php on line 2
+[18-Sep-2017 08:29:33 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/ancientbank27/public_html/test.php on line 2
+[18-Sep-2017 08:29:48 UTC] PHP Parse error:  syntax error, unexpected 'mail”' (T_STRING) in /home/ancientbank27/public_html/test.php on line 3
+[18-Sep-2017 08:35:59 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/ancientbank27/public_html/sendemail.php on line 16
+[18-Sep-2017 08:36:28 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/ancientbank27/public_html/sendemail.php on line 16
+[18-Sep-2017 08:36:59 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ancientbank27/public_html/sendemail.php on line 16
+[18-Sep-2017 08:37:42 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/ancientbank27/public_html/sendemail.php on line 16
+[18-Sep-2017 08:38:44 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ancientbank27/public_html/sendemail.php on line 15
+[18-Sep-2017 10:26:03 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/ancientbank27/public_html/testovyi.php on line 19
+[18-Sep-2017 10:52:51 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/ancientbank27/public_html/test.php on line 5
+[18-Sep-2017 10:57:22 UTC] PHP Notice:  Undefined index: subject in /home/ancientbank27/public_html/test.php on line 3
+[18-Sep-2017 10:57:22 UTC] PHP Notice:  Undefined index: name in /home/ancientbank27/public_html/test.php on line 4
+[18-Sep-2017 10:57:22 UTC] PHP Notice:  Undefined index: message in /home/ancientbank27/public_html/test.php on line 5
+[18-Sep-2017 10:57:22 UTC] PHP Notice:  Undefined index: email in /home/ancientbank27/public_html/test.php on line 6
+[18-Sep-2017 11:22:42 UTC] PHP Notice:  Undefined index: email in /home/ancientbank27/public_html/test.php on line 5
+[18-Sep-2017 11:24:47 UTC] PHP Notice:  Undefined index: subject in /home/ancientbank27/public_html/test.php on line 3
+[18-Sep-2017 11:24:56 UTC] PHP Notice:  Undefined index: subject in /home/ancientbank27/public_html/test.php on line 3
+[18-Sep-2017 11:27:10 UTC] PHP Notice:  Undefined index: subject in /home/ancientbank27/public_html/test.php on line 3
+[18-Sep-2017 11:30:48 UTC] PHP Notice:  Undefined index: subject in /home/ancientbank27/public_html/test.php on line 3
+[18-Sep-2017 11:31:43 UTC] PHP Notice:  Undefined index: subject in /home/ancientbank27/public_html/test.php on line 3
+[18-Sep-2017 11:45:54 UTC] PHP Notice:  Undefined index: subject in /home/ancientbank27/public_html/test.php on line 3
+[18-Sep-2017 11:48:22 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ancientbank27/public_html/test.php on line 3
+[18-Sep-2017 12:34:40 UTC] PHP Notice:  Undefined index: message in /home/ancientbank27/public_html/test.php on line 4
+[18-Sep-2017 13:00:35 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/ancientbank27/public_html/test.php on line 7
+[18-Sep-2017 13:00:44 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/ancientbank27/public_html/test.php on line 7
+[18-Sep-2017 13:19:16 UTC] PHP Notice:  Undefined index: subject in /home/ancientbank27/public_html/test.php on line 3
+[18-Sep-2017 13:19:16 UTC] PHP Notice:  Undefined index: message in /home/ancientbank27/public_html/test.php on line 4
+[18-Sep-2017 13:19:16 UTC] PHP Notice:  Undefined index: email in /home/ancientbank27/public_html/test.php on line 5
+[18-Sep-2017 13:19:16 UTC] PHP Notice:  Undefined index: name in /home/ancientbank27/public_html/test.php on line 6
+[18-Sep-2017 13:23:19 UTC] PHP Notice:  Undefined index: subject in /home/ancientbank27/public_html/test.php on line 3
+[18-Sep-2017 13:23:19 UTC] PHP Notice:  Undefined index: message in /home/ancientbank27/public_html/test.php on line 4
+[18-Sep-2017 13:23:19 UTC] PHP Notice:  Undefined index: email in /home/ancientbank27/public_html/test.php on line 5
+[18-Sep-2017 13:23:19 UTC] PHP Notice:  Undefined index: name in /home/ancientbank27/public_html/test.php on line 6
+[18-Sep-2017 13:25:27 UTC] PHP Notice:  Undefined index: subject in /home/ancientbank27/public_html/test.php on line 3
+[18-Sep-2017 13:25:27 UTC] PHP Notice:  Undefined index: message in /home/ancientbank27/public_html/test.php on line 4
+[18-Sep-2017 13:25:27 UTC] PHP Notice:  Undefined index: email in /home/ancientbank27/public_html/test.php on line 5
+[18-Sep-2017 13:25:27 UTC] PHP Notice:  Undefined index: name in /home/ancientbank27/public_html/test.php on line 6
+[18-Sep-2017 13:26:08 UTC] PHP Notice:  Undefined index: subject in /home/ancientbank27/public_html/test.php on line 3
+[18-Sep-2017 13:26:08 UTC] PHP Notice:  Undefined index: message in /home/ancientbank27/public_html/test.php on line 4
+[18-Sep-2017 13:26:08 UTC] PHP Notice:  Undefined index: email in /home/ancientbank27/public_html/test.php on line 5
+[18-Sep-2017 13:26:08 UTC] PHP Notice:  Undefined index: name in /home/ancientbank27/public_html/test.php on line 6
+[07-Jan-2018 03:28:43 UTC] PHP Notice:  Undefined index: subject in /home/ancientbank27/public_html/test.php on line 3
+[07-Jan-2018 03:28:43 UTC] PHP Notice:  Undefined index: message in /home/ancientbank27/public_html/test.php on line 4
+[07-Jan-2018 03:28:43 UTC] PHP Notice:  Undefined index: email in /home/ancientbank27/public_html/test.php on line 5
+[07-Jan-2018 03:28:43 UTC] PHP Notice:  Undefined index: name in /home/ancientbank27/public_html/test.php on line 6
+[09-Jan-2018 08:00:54 UTC] PHP Notice:  Undefined index: subject in /home/ancientbank27/public_html/test.php on line 3
+[09-Jan-2018 08:00:54 UTC] PHP Notice:  Undefined index: message in /home/ancientbank27/public_html/test.php on line 4
+[09-Jan-2018 08:00:54 UTC] PHP Notice:  Undefined index: email in /home/ancientbank27/public_html/test.php on line 5
+[09-Jan-2018 08:00:54 UTC] PHP Notice:  Undefined index: name in /home/ancientbank27/public_html/test.php on line 6
